@@ -3,5 +3,7 @@
 
 딥플리는 태그 기반 사용자 맞춤형 플레이리스트 생성 시스템으로 설계되었습니다. 
 
-![image](https://github.com/Noyongrok/Machine-Runner/assets/136784056/6868ebf8-5d7d-46cd-a4a0-cc826113d724)
+## 이 부분은 저희가 설계한 아키텍쳐입니다. 
+![image](https://github.com/Noyongrok/Machine-Runner/assets/136784056/48294403-5c2d-4ede-8490-7030b6adcf75)
+
 
