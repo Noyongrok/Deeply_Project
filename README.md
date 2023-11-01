@@ -7,3 +7,4 @@
 ![image](https://github.com/Noyongrok/Machine-Runner/assets/136784056/48294403-5c2d-4ede-8490-7030b6adcf75)
 
 
+나 용록쓰 아주 멋진놈이지
