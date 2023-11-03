@@ -1,3 +1,6 @@
+![Logo](https://github.com/Noyongrok/Machine-Runner/assets/136784056/16874fbf-f9a2-4d21-ac9d-a2fc90f98657)
+
+
 # Deep PLaY list
 
 딥플리 프로젝트 공유 디렉토리입니다. 
