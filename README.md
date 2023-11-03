@@ -1,4 +1,4 @@
-![Logo](https://github.com/Noyongrok/Machine-Runner/assets/136784056/16874fbf-f9a2-4d21-ac9d-a2fc90f98657 width="300)
+![Logo](https://github.com/Noyongrok/Machine-Runner/assets/136784056/16874fbf-f9a2-4d21-ac9d-a2fc90f98657width="300)
 
 
 # Deep PLaY list
