@@ -1,5 +1,5 @@
-![Logo](https://github.com/Noyongrok/Machine-Runner/assets/136784056/16874fbf-f9a2-4d21-ac9d-a2fc90f98657)
 
+![Logo](https://github.com/Noyongrok/Machine-Runner/assets/136784056/2456c7cf-547e-40a1-9d24-f0a6ab0b9c8b)
 
 # Deep PLaY list
 
